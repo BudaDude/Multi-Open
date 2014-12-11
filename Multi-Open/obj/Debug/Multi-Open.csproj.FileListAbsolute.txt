@@ -1,0 +1,6 @@
+E:\Projects\C#\Multi-Open\Multi-Open\bin\Debug\Multi-Open.exe.config
+E:\Projects\C#\Multi-Open\Multi-Open\obj\Debug\Multi-Open.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Multi-Open\Multi-Open\bin\Debug\Multi-Open.exe
+E:\Projects\C#\Multi-Open\Multi-Open\bin\Debug\Multi-Open.pdb
+E:\Projects\C#\Multi-Open\Multi-Open\obj\Debug\Multi-Open.exe
+E:\Projects\C#\Multi-Open\Multi-Open\obj\Debug\Multi-Open.pdb
